@@ -1,0 +1,15 @@
+node_modules
+jest_html_reporters
+jest-stare
+*.xml
+*.html
+jest-html-reporters-attach
+Data/account*.json
+Data/token*.json
+Data/account/*
+Data/Response/*
+Data/UserLoginData/*
+Data/TCM*.csv
+package-lock.json
+allure-report
+allure-results
